@@ -6,7 +6,7 @@ Table of Content
 * [Kubernetes how-to guides](#kubernetes)
 
 ## Azure Cloud
-- Managed Identities
+- [Managed Identities in Azure]()
 
 ## Kubernetes
 - spring-boot Readiness and Liveness
