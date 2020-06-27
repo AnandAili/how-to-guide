@@ -13,4 +13,4 @@ Table of Content
 - spring-boot Readiness and Liveness
 
 ## Macbook
-- Fix Audio output after mac upgrade to Catalina(./macbook/earphone-audio-problem.md)
+- [Fix Audio output after mac upgrade to Catalina](./macbook/earphone-audio-problem.md)
