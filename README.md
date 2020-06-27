@@ -12,5 +12,5 @@ Table of Content
 ## Kubernetes
 - spring-boot Readiness and Liveness
 
-## Macboook
+## Macbook
 - Fix Audio output after mac upgrade to Catalina
