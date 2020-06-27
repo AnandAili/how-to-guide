@@ -4,7 +4,7 @@ Table of Content
 ---
 * [Azure how-to guides](#azure-cloud)
 * [Kubernetes how-to guides](#kubernetes)
-* [Macbook](macbook)
+* [Macbook](#macbook)
 
 ## Azure Cloud
 - Managed Identities
